@@ -1,6 +1,4 @@
-# Book-Cafe
-EcoLife Hub
-
+### Book-Cafe
 ## Overview
 EcoLife Hub is a sustainable lifestyle website dedicated to promoting eco-friendly products and practical green living tips. The site features a rebranded design with a new color scheme, updated content, and responsive layouts built around fresh SM (mobile) and MD (tablet) breakpoints.
 
