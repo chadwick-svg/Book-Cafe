@@ -1,11 +1,6 @@
 /*----------------------------------------------------------
   Variables & Color System
-  ----------------------------------------------------------
-  Using the existing Book Café theme:
-  - Primary (#8B5E3C): An earthy brown used for logos, headings, and borders.
-  - Secondary (#F5F5DC): A warm off-white for backgrounds, providing a relaxed feel.
-  - Accent (#D2691E): A vibrant tone for hover effects and calls-to-action.
------------------------------------------------------------*/
+  ----------------------------------------------------------*/
 :root {
   --primary: #8B5E3C;
   --secondary: #F5F5DC;
