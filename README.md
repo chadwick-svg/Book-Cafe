@@ -1,22 +1,22 @@
-# Book-Cafe
+# Book Café
+
 ## Overview
-EcoLife Hub is a sustainable lifestyle website dedicated to promoting eco-friendly products and practical green living tips. The site features a rebranded design with a new color scheme, updated content, and responsive layouts built around fresh SM (mobile) and MD (tablet) breakpoints.
+Book Café is a warm and inviting website for literature and coffee enthusiasts. It offers a cozy space where visitors can explore handcrafted brews, curated books, and now, community events—all with a responsive design ensuring a great experience on mobile, tablet, and desktop devices.
 
 ## Color System
-- **Primary (#228B22 - Forest Green):** Represents trust, nature, and a commitment to sustainability.
-- **Secondary (#F5F5DC - Natural Beige):** Provides a neutral, organic background that enhances readability.
-- **Accent (#FF7F50 - Coral):** Adds energy and vibrancy to calls-to-action (buttons, hover effects) while maintaining WCAG AA compliance through strong contrast.
+- **Primary (#8B5E3C):** An earthy brown used for headings, logos, and borders—evoking warmth and authenticity.
+- **Secondary (#F5F5DC):** A gentle off-white background that reinforces the relaxed ambiance and enhances readability.
+- **Accent (#D2691E):** A vibrant tone applied in hover effects and calls-to-action, ensuring strong contrast and visual emphasis.
 
 ## Breakpoint Logic
-- **Small (SM):** Up to 480px. Adjusts the header into a vertical layout with stacked navigation and reduced hero section padding and font sizes for mobile-friendly viewing.
-- **Medium (MD):** 481px to 1023px. Adopts a two-column grid for product and tip cards while keeping text sizes and spacing balanced for tablets.
-- **Large (LG):** 1024px and above. Retains the structural consistency of the card layouts; elements such as navigation and typography are scaled appropriately for desktop views.
+- **Small Devices (SM):** Up to 480px. The header stacks vertically, navigation shifts to a column layout, and the hero section’s padding and font sizes are reduced for optimal mobile viewing.
+- **Medium Devices (MD):** 481px to 1023px. Key sections such as menu, books, and events convert to a two-column grid layout to balance content density, while overall spacing and typography adjust to maintain visual hierarchy.
+- **Large Devices (LG):** 1024px and above. The website retains its structural consistency with only scale adjustments for a refined desktop experience.
 
-## Creative Divergence from the Original Mockup
-- **Rebranding:** The website now embodies the eco-friendly message of "EcoLife Hub" instead of a book cafe. All placeholder texts and images have been replaced with sustainable living content.
-- **Layout Enhancements:** Beyond color changes, the navigation, hero section, and card layouts have been tailored to offer improved readability and visual hierarchy on small and medium devices.
-- **User Experience:** The interactive contact form now thanks visitors for their interest, reinforcing the supportive community ethos of EcoLife Hub.
+## Additional Content
+- **Community Events Section:** A new section dedicated to highlighting weekly events (book signings, poetry nights, creative writing workshops) that foster community engagement and enrich the Book Café experience.
 
-## Code Quality
-- **Clean & Commented:** All code is well-commented with consistent naming conventions. No inline styles are used.
-- **External Resources:** CSS and JavaScript are kept in separate files for improved maintainability.
+## Design Adjustments
+- **Maintaining the Book Café Theme:** All original branding elements, content, and imagery have been kept. The site continues to evoke that cozy, local café feel.
+- **Responsive Enhancements:** New SM and MD breakpoints ensure that the website is accessible and visually appealing across all devices.
+- **Clean, Commented Code:** All code is maintained in external CSS and JavaScript files using consistent naming conventions for maintainability.
